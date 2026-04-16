@@ -125,7 +125,7 @@ Fix:
 ---
 
 ## 5. Diagram Placeholder
-*(Add your blueprint‑style diagram here once created)*
+![Domain Join Process Flow](../diagrams/domain-join-flow.png)
 
 Suggested diagram:
 - Client → DNS → Domain Controller → AD DS  
