@@ -124,8 +124,11 @@ Fix:
 
 ---
 
-## 5. Diagram Placeholder
+## 5. Diagrams
 ![Domain Join Process Flow](../diagrams/domain-join-flow.png)
+### Diagram: Client → DNS → Domain Controller → AD DS
+![Client to AD Flow](../diagrams/client-dns-dc-adds-flow.png)
+
 
 Suggested diagram:
 - Client → DNS → Domain Controller → AD DS  
