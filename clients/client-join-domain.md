@@ -125,7 +125,8 @@ Fix:
 ---
 
 ## 5. Diagrams
-![Domain Join Process Flow](../diagrams/domain-join-flow.png)
+### Diagram: Client → Network Infrastructure → Active Directory Domain
+![Client Network AD Flow](../diagrams/client-network-ad-flow.png)
 ### Diagram: Client → DNS → Domain Controller → AD DS
 ![Client to AD Flow](../diagrams/client-dns-dc-adds-flow.png)
 
