@@ -129,11 +129,9 @@ Fix:
 ![Client Network AD Flow](../diagrams/client-network-ad-flow.png)
 ### Diagram: Client → DNS → Domain Controller → AD DS
 ![Client to AD Flow](../diagrams/client-dns-dc-adds-flow.png)
+### Diagram: Windows + Linux Authentication Flow
+![Client Authentication Flow](../diagrams/client-authentication-flow.png)
 
-
-Suggested diagram:
-- Client → DNS → Domain Controller → AD DS  
-- Windows + Linux authentication flow  
 
 ---
 
