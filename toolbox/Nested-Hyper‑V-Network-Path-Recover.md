@@ -93,13 +93,7 @@ Clean L2 path restored end‑to‑end
 
 🖼 Blueprint Diagram
 
-Add the generated blueprint image here:
-
-/diagrams/nested-hyperv-network-path-recovery.png
-
-Embed in Markdown:
-
-![Nested Hyper-V Network Path Recovery](../diagrams/nested-hyperv-network-path-recovery.png)
+![Nested Hyper-V Network Path Recovery](../diagrams/hyper-v-host-issue.png)
 
 💡 Lessons Learned
 
