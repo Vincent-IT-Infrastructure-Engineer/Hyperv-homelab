@@ -16,6 +16,7 @@ This lab includes:
 - Group Policy Management + Baseline Hardening
 - Blueprint‑style diagrams and engineering documentation
 - Hybrid identity and M365 integration (in progress)
+- A growing engineering **Toolbox** for troubleshooting and repeatable fixes
 
 ---
 
@@ -44,12 +45,9 @@ This lab includes:
 
 ## 📁 Repository Structure
 
-/infrastructure — Hyper‑V host, networking, nested virtualization
+/active-directory        → AD DS, DNS, DHCP, GPO
+/clients                 → Windows 10, Windows 11, Linux, domain join, validation
+/diagrams                → Blueprint‑style architecture diagrams
+/infrastructure          → Hyper‑V host, networking, nested virtualization
+/toolbox                 → Troubleshooting playbooks & engineering fixes
 
-/active-directory — Domain setup, DNS, DHCP, GPO
-
-/clients — Windows 10 domain join + validation
-
-/toolbox — PowerShell, Hyper‑V, AD commands
-
-/diagrams — Blueprint‑style architecture diagrams
