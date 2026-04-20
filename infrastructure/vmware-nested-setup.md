@@ -85,22 +85,10 @@ After enabling nested virtualization:
 
 ---
 
-## 🧩 Diagram Placeholder
-[VMware Nested Virtualization Diagram Placeholder]
+## 🧩 Diagram
 
-Physical Machine
+![VMware Nested Setup](../diagrams/vmware-nested-setup.png)
 
-VMware Workstation Layer
-
-VMnet0 / VMnet8 / VMnet1
-
-HyperVHost VM (192.168.0.5)
-
-Hyper-V Role
-
-ExternalSwitch → VMnet0
-
-Guest VMs (Windows 10, Windows 11, Linux)
 
 
 ---
