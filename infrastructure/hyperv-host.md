@@ -109,5 +109,9 @@ During initial setup, HyperVHost could not reach DC01.
 
 ---
 
-## 🧩 Diagram Placeholder
+## 🏗️ Virtualization Architecture
+HyperVHost runs as a VMware Workstation VM with nested virtualization enabled.
+
+![Hyper‑V Host Architecture](../diagrams/hyper-v-host-architecture.png)
+
 
