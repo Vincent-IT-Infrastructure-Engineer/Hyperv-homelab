@@ -108,32 +108,10 @@ This ensures predictable authentication and name resolution.
 
 ---
 
-## 🧩 Diagram Placeholder
-[Network Topology Diagram Placeholder]
+## 🧩 Network Topology Diagram
 
-VMware Layer
+![Network Topology](../diagrams/network-topology.png)
 
-VMnet0 (Bridged)
-
-VMnet8 (NAT)
-
-VMnet1 (Host-Only)
-
-Hyper-V Layer
-
-ExternalSwitch → VMnet0
-
-HyperVHost (192.168.0.5)
-
-Server Layer
-
-DC01 (192.168.0.10)
-
-DC02 (192.168.0.11)
-
-Client Layer
-
-Windows 10 / 11 / Linux (DHCP)
 
 
 ---
