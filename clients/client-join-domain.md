@@ -182,13 +182,16 @@ timedatectl set-ntp true
 ## 5️⃣ Diagrams
 
 - **Client → Network Infrastructure → Active Directory Domain**  
-  `/diagrams/client-network-ad-flow.png`
+  ![Client Network AD Flow](../diagrams/client-network-ad-flow.png)
+
 
 - **Client → DNS → Domain Controller → AD DS**  
-  `/diagrams/client-dns-dc-adds-flow.png`
+  ![Client DNS DC AD DS Flow](../diagrams/client-dns-dc-adds-flow.png)
+
 
 - **Windows + Linux Authentication Flow**  
-  `/diagrams/client-authentication-flow.png`
+  ![Client Authentication Flow](../diagrams/client-authentication-flow.png)
+
 
 ---
 
