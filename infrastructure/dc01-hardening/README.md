@@ -72,7 +72,6 @@ Defines advanced audit policy configuration and event visibility improvements.
 ### **DC01 Hardening Architecture**
 ![DC01 Hardening Architecture](../diagrams/dc01-hardening-architecture.png)
 
-*(Replace with your actual diagram when ready.)*
 
 ---
 
