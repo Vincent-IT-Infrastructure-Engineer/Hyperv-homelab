@@ -130,12 +130,10 @@ Advanced auditing provides visibility into authentication, privilege use, and di
 ## 🖼️ Reference Diagrams
 
 ### **GPO Baseline Architecture**
-![GPO Baseline Architecture](../diagrams/dc01-gpo-baseline-architecture.png)
+![GPO Baseline Architecture](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-gpo-baseline-architecture.png)
 
 ### **Audit Policy Overview**
-![Audit Policy Overview](../diagrams/dc01-audit-policy-overview.png)
-
-*(Replace with your actual diagrams when available.)*
+![Audit Policy Overview](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-audit-policy-overview.png)
 
 ---
 
