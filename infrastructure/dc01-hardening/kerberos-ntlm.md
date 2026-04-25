@@ -82,12 +82,11 @@ NTLM is a legacy authentication protocol and should be minimized wherever possib
 ## 🖼️ Reference Diagrams
 
 ### **Kerberos Authentication Flow**
-![Kerberos Authentication Flow](../diagrams/dc01-kerberos-flow.png)
+![Kerberos Authentication Flow](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-kerberos-flow.png)
 
 ### **NTLM Restriction Overview**
-![NTLM Restriction Overview](../diagrams/dc01-ntlm-restrictions.png)
+![NTLM Restriction Overview](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-ntlm-restrictions.png)
 
-*(Replace with your actual diagrams when available.)*
 
 ---
 
