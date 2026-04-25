@@ -135,13 +135,13 @@ Object access auditing is enabled **only for critical objects**, to avoid excess
 
 ---
 
+### **Reference Diagrams**
 
-### **Audit Policy Overview**
-![Audit Policy Overview](../diagrams/dc01-audit-logging.png)
+#### **Audit Policy Overview**
+![Audit Policy Overview](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-audit-logging.png)
 
-
-### **Authentication Event Flow**
-![Authentication Event Flow](../diagrams/dc01-authentication-event-flow.png)
+#### **Authentication Event Flow**
+![Authentication Event Flow](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-authentication-event-flow.png)
 
 
 
