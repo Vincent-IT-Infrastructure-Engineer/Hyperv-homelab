@@ -97,8 +97,6 @@ kerberos-ntlm.md
 
 ## 🖼️ Reference Diagram
 
-### **Reference Diagram**
-
 #### **Account Policy Flow**
 ![Account Policy Flow](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-account-policy-flow.png)
 
