@@ -116,13 +116,14 @@ Auto‑enrollment ensures certificates are automatically issued to domain‑join
 
 ## 🖼️ Reference Diagrams
 
+## 🖼️ Reference Diagrams
+
 ### **AD CS Architecture**
-![AD CS Architecture](../diagrams/dc01-adcs-architecture.png)
+![AD CS Architecture](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-adcs-architecture.png)
 
 ### **Certificate Enrollment Flow**
-![Certificate Enrollment Flow](../diagrams/dc01-certificate-enrollment.png)
+![Certificate Enrollment Flow](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-certificate-enrollment.png)
 
-*(Replace with your actual diagrams when available.)*
 
 ---
 
