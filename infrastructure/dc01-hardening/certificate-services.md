@@ -114,7 +114,6 @@ Auto‑enrollment ensures certificates are automatically issued to domain‑join
 
 ---
 
-## 🖼️ Reference Diagrams
 
 ## 🖼️ Reference Diagrams
 
