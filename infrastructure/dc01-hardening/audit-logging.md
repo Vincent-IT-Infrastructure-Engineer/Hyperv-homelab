@@ -135,10 +135,9 @@ Object access auditing is enabled **only for critical objects**, to avoid excess
 
 ---
 
-## 🖼️ Reference Diagrams
 
 ### **Audit Policy Overview**
-![Audit Policy Overview](../diagrams/dc01-audit-policy-overview.png)
+![Audit Policy Overview](../diagrams/dc01-audit-logging.png)
 
 ### **Authentication Event Flow**
 ![Authentication Event Flow](../diagrams/dc01-auth-event-flow.png)
