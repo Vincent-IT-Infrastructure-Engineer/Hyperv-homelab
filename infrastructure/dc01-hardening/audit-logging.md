@@ -141,9 +141,9 @@ Object access auditing is enabled **only for critical objects**, to avoid excess
 
 
 ### **Authentication Event Flow**
-![Authentication Event Flow](../diagrams/dc01-auth-event-flow.png)
+![Authentication Event Flow](../diagrams/dc01-authentication-event-flow.png)
 
-*(Replace with your actual diagrams when available.)*
+
 
 ---
 
