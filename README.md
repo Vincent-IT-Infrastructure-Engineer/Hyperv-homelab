@@ -97,11 +97,9 @@ Troubleshooting playbooks, engineering fixes, reusable commands, and workflow do
 
 ---
 
-## 🧭 Lab Architecture (High‑Level)
+🧭 Enterprise Homelab Architecture (High‑Level)
 
-![Lab Architecture](./diagrams/lab-architecture-overview.png)
-
-*(Replace with your actual diagram when ready.)*
+![Enterprise Homelab Architecture](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/enterprise-homelab-architecture.png)
 
 ---
 
