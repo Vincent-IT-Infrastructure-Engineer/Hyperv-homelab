@@ -79,7 +79,6 @@ NTLM is a legacy authentication protocol and should be minimized wherever possib
 
 ---
 
-## 🖼️ Reference Diagrams
 
 ### **Kerberos Authentication Flow**
 ![Kerberos Authentication Flow](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/dc01-kerberos-flow.png)
