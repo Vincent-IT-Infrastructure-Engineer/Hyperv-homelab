@@ -103,10 +103,8 @@ During Phase 4, HyperVHost was unable to communicate with DC01 due to a multi‑
 
 ---
 
-## 🖼️ Reference Diagrams
+![Phase 4 — Hyper‑V Host Hardening Path](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/phase-4-hardening-path.png)
 
-### **Hyper‑V Host Hardening Path**
-![Hyper‑V Host Hardening Path](../diagrams/phase-4-hardening-path.png)
 
 ### **vSwitch Binding (Example)**
 ![vSwitch Binding](../diagrams/phase4-vswitch-binding.png)
