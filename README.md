@@ -51,51 +51,48 @@ This lab includes:
 ## 📁 Repository Structure
 
 ### **Active Directory**
-```
-/active-directory
-```
+[**/active-directory**](/active-directory)  
 AD DS, DNS, DHCP, GPO, identity services.
 
+---
+
 ### **Clients**
-```
-/clients
-```
+[**/clients**](/clients)  
 Windows 10, Windows 11, Linux domain join, validation, baselines.
 
+---
+
 ### **Diagrams**
-```
-/diagrams
-```
+[**/diagrams**](/diagrams)  
 Blueprint‑style architecture diagrams for infrastructure, networking, and identity.
 
+---
+
 ### **Infrastructure**
-```
-/infrastructure
-    hyperv-host.md
-    hyperv-host-hardening.md
-    network-topology.md
-    vmware-nested-setup.md
-    dc01-hardening/
-```
-
-### **DC01 Hardening**
-```
-/infrastructure/dc01-hardening
-    README.md
-    account-policies.md
-    kerberos-ntlm.md
-    gpo-security-baselines.md
-    certificate-services.md
-    audit-logging.md
-```
-
-### **Toolbox**
-```
-/toolbox
-```
-Troubleshooting playbooks, engineering fixes, reusable commands, and workflow documentation.
+[**/infrastructure**](/infrastructure)  
+- hyperv-host.md  
+- hyperv-host-hardening.md  
+- network-topology.md  
+- vmware-nested-setup.md  
+- dc01-hardening/
 
 ---
+
+### **DC01 Hardening**
+[**/infrastructure/dc01-hardening**](/infrastructure/dc01-hardening)  
+- README.md  
+- account-policies.md  
+- kerberos-ntlm.md  
+- gpo-security-baselines.md  
+- certificate-services.md  
+- audit-logging.md
+
+---
+
+### **Toolbox**
+[**/toolbox**](/toolbox)  
+PowerShell, Hyper‑V, AD DS, and automation tools.
+
 
 🧭 Enterprise Homelab Architecture (High‑Level)
 
