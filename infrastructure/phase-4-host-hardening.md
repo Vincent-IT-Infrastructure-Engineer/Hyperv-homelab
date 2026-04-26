@@ -110,10 +110,9 @@ During Phase 4, HyperVHost was unable to communicate with DC01 due to a multi‑
 ![vSwitch Binding](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/phase4-vswitch-binding.png)
 
 
-### **VMware Network Settings (Example)**
-![VMware Network Settings](../diagrams/phase4-vmware-settings.png)
+### VMware Settings (Blueprint)
+![VMware Settings](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/phase4-vmware-settings.png)
 
-*(You can replace these with your actual screenshots — the structure is already correct.)*
 
 ---
 
