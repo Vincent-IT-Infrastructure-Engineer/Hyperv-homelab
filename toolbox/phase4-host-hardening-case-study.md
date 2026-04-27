@@ -163,11 +163,8 @@ Snapshots governed
 
 Documentation updated
 
-🖼 Blueprint Diagram
-(Add when ready)
+![Phase 4 Host Hardening Architecture](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/main/diagrams/phase4-host-hardening.png
 
-Code
-../diagrams/phase4-host-hardening.png
 💡 Lessons Learned
 Treat lab hosts like production hosts
 
