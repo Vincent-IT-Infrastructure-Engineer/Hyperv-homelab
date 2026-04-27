@@ -163,7 +163,8 @@ Snapshots governed
 
 Documentation updated
 
-![Phase 4 Host Hardening Architecture](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/main/diagrams/phase4-host-hardening.png)
+![Phase 4 Host Hardening Architecture](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Vincent-IT-Infrastructure-Engineer/main/diagrams/phase4-host-hardening.png)
+
 
 
 💡 Lessons Learned
