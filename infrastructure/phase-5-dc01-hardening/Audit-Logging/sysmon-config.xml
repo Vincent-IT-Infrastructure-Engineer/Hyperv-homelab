@@ -1,1 +1,25 @@
-test
+<Sysmon schemaversion="4.50">
+  <EventFiltering>
+
+    <!-- Process Creation -->
+    <ProcessCreate onmatch="include">
+      <CommandLine condition="contains">powershell</CommandLine>
+      <CommandLine condition="contains">wmic</CommandLine>
+      <CommandLine condition="contains">certutil</CommandLine>
+    </ProcessCreate>
+
+    <!-- Network Connections -->
+    <NetworkConnect onmatch="include">
+      <Image condition="end with">lsass.exe</Image>
+      <Image condition="end with">svchost.exe</Image>
+    </NetworkConnect>
+
+    <!-- File Creation -->
+    <FileCreate onmatch="include">
+      <TargetFilename condition="contains">Startup</TargetFilename>
+      <TargetFilename condition="contains">Temp</TargetFilename>
+    </FileCreate>
+
+  </EventFiltering>
+</Sysmon>
+
