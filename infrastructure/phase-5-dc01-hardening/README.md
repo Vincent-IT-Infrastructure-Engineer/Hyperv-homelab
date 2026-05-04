@@ -27,7 +27,6 @@ Sysmon Deployment
 Lightweight monitoring foundation for Phase 6 (SIEM integration).
 
 🗂️ Folder Structure
-Code
 phase-5-dc01-hardening/
 │
 ├── README.md
@@ -49,6 +48,7 @@ phase-5-dc01-hardening/
 └── Audit-Logging/
     ├── audit-policy-baseline.md
     └── sysmon-config.xml
+
 🛡️ Security Objectives
 1. Strengthen Authentication
 Enforce AES‑only Kerberos encryption
