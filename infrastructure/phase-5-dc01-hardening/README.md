@@ -28,26 +28,21 @@ Lightweight monitoring foundation for Phase 6 (SIEM integration).
 
 🗂️ Folder Structure
 phase-5-dc01-hardening/
-│
-├── README.md
-│
-├── GPO-Baselines/
-│   ├── baseline-gpo-settings.md
-│   └── baseline-gpo-commands.ps1
-│
-├── Kerberos-NTLM/
-│   ├── kerberos-hardening.md
-│   └── ntlm-hardening.md
-│
-├── Account-Policies/
-│   └── account-policy-baseline.md
-│
-├── Certificates/
-│   └── dc01-certificates.md
-│
-└── Audit-Logging/
-    ├── audit-policy-baseline.md
-    └── sysmon-config.xml
+    README.md
+    GPO-Baselines/
+        baseline-gpo-settings.md
+        baseline-gpo-commands.ps1
+    Kerberos-NTLM/
+        kerberos-hardening.md
+        ntlm-hardening.md
+    Account-Policies/
+        account-policy-baseline.md
+    Certificates/
+        dc01-certificates.md
+    Audit-Logging/
+        audit-policy-baseline.md
+        sysmon-config.xml
+
 
 🛡️ Security Objectives
 1. Strengthen Authentication
