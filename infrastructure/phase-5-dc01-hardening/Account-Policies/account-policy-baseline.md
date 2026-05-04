@@ -19,5 +19,5 @@
 - Smart card enforcement planned for privileged accounts (future phase)
 
 ## 🧪 Verification
-Run:
+Run: net accounts
 
