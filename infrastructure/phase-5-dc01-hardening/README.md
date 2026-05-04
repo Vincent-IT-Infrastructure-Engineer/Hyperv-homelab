@@ -27,27 +27,7 @@ Sysmon Deployment
 Lightweight monitoring foundation for Phase 6 (SIEM integration).
 
 🗂️ Folder Structure
-phase-5-dc01-hardening/
-│
-├── README.md
-│
-├── GPO-Baselines/
-│   ├── baseline-gpo-settings.md
-│   └── baseline-gpo-commands.ps1
-│
-├── Kerberos-NTLM/
-│   ├── kerberos-hardening.md
-│   └── ntlm-hardening.md
-│
-├── Account-Policies/
-│   └── account-policy-baseline.md
-│
-├── Certificates/
-│   └── dc01-certificates.md
-│
-└── Audit-Logging/
-    ├── audit-policy-baseline.md
-    └── sysmon-config.xml
+![Phase 5 — DC01 Hardening Folder Structure](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/phase-5-folder-structure.png)
 
 
 
