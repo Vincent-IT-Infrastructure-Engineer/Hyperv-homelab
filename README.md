@@ -15,7 +15,7 @@ This lab includes:
 - **Windows 10, Windows 11, and Linux domain‑joined clients**
 - Group Policy Management + Security Baseline Hardening
 - Hyper‑V Host Hardening + Network Isolation Fixes
-- DC01 Hardening (Kerberos, NTLM, GPO Baselines, AD CS, Auditing)
+- DC01 Hardening (Kerberos, NTLM, GPO Baselines, AD CS, Auditing, Sysmon Pipeline)
 - Blueprint‑style diagrams and engineering documentation
 - Hybrid identity and M365 integration (in progress)
 - A growing engineering **Toolbox** for troubleshooting and repeatable fixes
@@ -30,7 +30,7 @@ This lab includes:
 | **Phase 2** | AD DS + DNS + DHCP | ✅ Completed |
 | **Phase 3** | Client Join + GPO + Tools | ✅ Completed |
 | **Phase 4** | Hyper‑V Host Domain Join + Hardening | ✅ Completed |
-| **Phase 5** | DC01 Hardening (Kerberos, NTLM, GPO, AD CS, Auditing) | ✅ Completed |
+| **Phase 5** | DC01 Hardening (Kerberos, NTLM, GPO, AD CS, Auditing, Sysmon Pipeline) | ✅ Completed |
 | **Phase 6** | Intune / M365 Hybrid Integration | ⏳ Planned |
 
 ---
@@ -93,10 +93,31 @@ Blueprint‑style architecture diagrams for infrastructure, networking, and iden
 [**/toolbox**](/toolbox)  
 PowerShell, Hyper‑V, AD DS, and automation tools.
 
+---
 
-🧭 Enterprise Homelab Architecture (High‑Level)
+## 🧩 Blueprint Diagram Gallery
+
+- [Phase 5 — DC01 Hardening Folder Structure](diagrams/phase-5-folder-structure.png)
+- [Kerberos & NTLM Authentication Flow](diagrams/phase-5-kerberos-ntlm-flow.png)
+- [Certificate Auto‑Enrollment Flow](diagrams/phase-5-certificate-autoenrollment.png)
+- [Advanced Audit Policy Overview](diagrams/phase-5-audit-policy-overview.png)
+- [Sysmon Logging Pipeline](diagrams/phase-5-sysmon-pipeline.png)
+
+---
+
+## 🧭 Enterprise Homelab Architecture (High‑Level)
 
 ![Enterprise Homelab Architecture](https://raw.githubusercontent.com/Vincent-IT-Infrastructure-Engineer/Hyperv-homelab/main/diagrams/enterprise-homelab-architecture.png)
+
+---
+
+## 🛡️ Security Baseline Achievements
+
+- AES‑only Kerberos and NTLMv2 enforcement  
+- Enterprise GPO security baselines applied  
+- DC Authentication certificates auto‑enrolled  
+- Advanced audit policy and Sysmon monitoring configured  
+- Foundation for SIEM integration (Phase 6)
 
 ---
 
@@ -120,7 +141,7 @@ PowerShell, Hyper‑V, AD DS, and automation tools.
 
 ## 🚀 Next Steps
 
-- Phase 6: Hybrid Azure AD Join  
+- Phase 6: Hybrid Azure AD Join  
 - Intune device management  
 - Conditional Access + MFA  
 - Defender for Endpoint integration  
@@ -135,4 +156,3 @@ This homelab is designed as a **living, evolving engineering environment**.
 Every phase builds toward a complete, enterprise‑grade identity and device management platform — fully documented, fully reproducible, and portfolio‑ready.
 
 ---
-
